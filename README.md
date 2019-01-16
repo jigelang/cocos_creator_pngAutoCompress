@@ -11,4 +11,4 @@ CocosCreator图片压缩的扩展包
  
 
 
-借鉴于saint-knight的saint-knight/pngquant
+借鉴于saint-knight的https://github.com/saint-knight/pngquant
