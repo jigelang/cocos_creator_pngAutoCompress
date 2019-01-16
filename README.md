@@ -8,3 +8,7 @@ CocosCreator图片压缩的扩展包
 实际使用过程中需注意以下问题：
 1.骨骼动画的图集需要够选颜色预乘，骨骼动画的渲染混合模式选one
 2.贴图使用时渲染混合模式不能选one
+ 
+
+
+借鉴于saint-knight的saint-knight/pngquant
