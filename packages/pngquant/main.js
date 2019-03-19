@@ -29,7 +29,7 @@ function onBuildFinish (options, callback) {
     }else{
       pngquant_path = Editor.url('packages://pngquant/tool/mac/pngquant');
     }
-    let cmd = pngquant_path + " --transbug --force 256 --ext .png";
+    let cmd = pngquant_path + " --force 256 --ext .png";
 
     let item = list[index];
     let exe_cmd = cmd + ' ' + item.path;
